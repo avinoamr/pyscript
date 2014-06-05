@@ -1,0 +1,1 @@
+hello = lambda a: a**2

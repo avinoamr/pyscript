@@ -1,0 +1,20 @@
+{
+    "name": "pyscript",
+    "version": "0.0.0",
+    "description": "A python to javascript compiler",
+    "devDependencies": {
+        "jison": "*"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/avinoamr/pyscript.git"
+    },
+    "author": "Roi Avinoam <avinoamr@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/avinoamr/pyscript/issues"
+    }
+}
